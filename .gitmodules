@@ -9,7 +9,7 @@
 	url = https://github.com/ONTOCHAIN/desmo-dapp.git
 [submodule "desmo-sdk"]
 	path = desmo-sdk
-	url = https://github.com/vaimee/desmo-sdk.git
+	url = https://github.com/ONTOCHAIN/desmo-sdk.git
 [submodule "desmo-front"]
 	path = desmo-front
 	url = https://github.com/ONTOCHAIN/desmo-front.git
