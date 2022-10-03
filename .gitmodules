@@ -6,7 +6,7 @@
 	url = https://github.com/vaimee/zion.git
 [submodule "desmo-dapp"]
 	path = desmo-dapp
-	url = https://github.com/vaimee/desmo-dapp.git
+	url = https://github.com/ONTOCHAIN/desmo-dapp.git
 [submodule "desmo-sdk"]
 	path = desmo-sdk
 	url = https://github.com/vaimee/desmo-sdk.git
