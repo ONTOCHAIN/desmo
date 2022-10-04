@@ -3,7 +3,7 @@
 	url = https://github.com/ONTOCHAIN/desmo-contracts.git
 [submodule "zion"]
 	path = zion
-	url = https://github.com/vaimee/zion.git
+	url = https://github.com/ONTOCHAIN/zion
 [submodule "desmo-dapp"]
 	path = desmo-dapp
 	url = https://github.com/ONTOCHAIN/desmo-dapp.git
