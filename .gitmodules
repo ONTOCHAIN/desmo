@@ -1,15 +1,20 @@
 [submodule "desmo-contracts"]
 	path = desmo-contracts
 	url = https://github.com/ONTOCHAIN/desmo-contracts.git
+	branch = main
 [submodule "zion"]
 	path = zion
 	url = https://github.com/ONTOCHAIN/zion
+	branch = main
 [submodule "desmo-dapp"]
 	path = desmo-dapp
 	url = https://github.com/ONTOCHAIN/desmo-dapp.git
+	branch = main
 [submodule "desmo-sdk"]
 	path = desmo-sdk
 	url = https://github.com/ONTOCHAIN/desmo-sdk.git
+	branch = main
 [submodule "desmo-front"]
 	path = desmo-front
 	url = https://github.com/ONTOCHAIN/desmo-front.git
+	branch = main
