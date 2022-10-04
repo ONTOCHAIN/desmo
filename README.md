@@ -1,6 +1,6 @@
 <img src="./imgs/desmo-logo.png" width="40%" alt='DESMO'/>
 
-# Not matained NOTICE: We do keep this repository up to date.
+# Not matained NOTICE: We do not keep this repository up to date.
 This forked repository is used as a archive for the results of the ONTOCHAIN open call 2
 
 # A DEcentralized SMart Oracle for the Internet of Things
