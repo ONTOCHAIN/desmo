@@ -1,5 +1,8 @@
 <img src="./imgs/desmo-logo.png" width="40%" alt='DESMO'/>
 
+# Not matained NOTICE: We do keep this repository up to date.
+This forked repository is used as a archive for the results of the ONTOCHAIN open call 2
+
 # A DEcentralized SMart Oracle for the Internet of Things
 <a href="https://github.com/vaimee/desmo/issues" target="_blank"><img src="https://img.shields.io/github/issues/vaimee/desmo.svg?style=flat-square" alt="Issues" /></a>
 <a href="https://github.com/vaimee/desmo/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/vaimee/desmo.svg?style=flat-square" alt="License" /></a>
